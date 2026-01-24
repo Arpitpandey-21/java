@@ -8,6 +8,13 @@ public class variables {
         y=200; //initialization
         System.out.println(y);
         System.out.println(x*y);
+        System.out.println(x+y);
+        System.out.println(x-y);
+        System.out.println(x%y);
+        y=300;
+        System.out.println(y);
+        System.out.println("y");
+        System.out.println(x+y);
     }
 }
 //if you give double inverted comma in print and println you get output in from of text or string
