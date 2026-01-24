@@ -5,7 +5,7 @@ public class Areaofcircle {
         double a;
         double r = 5;
         a=3.14*r*r;
-        System.out.println(area);
+        System.out.println("Area: " +a);
     }
 }
 //Area of circle=pi*r*r
